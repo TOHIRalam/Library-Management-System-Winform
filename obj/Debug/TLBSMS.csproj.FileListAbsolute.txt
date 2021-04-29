@@ -1,0 +1,15 @@
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\bin\Debug\TLBSMS.exe.config
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\bin\Debug\TLBSMS.exe
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\bin\Debug\TLBSMS.pdb
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.csprojAssemblyReference.cache
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.Form1.resources
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.Properties.Resources.resources
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.csproj.GenerateResource.cache
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.csproj.CoreCompileInputs.cache
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.exe
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.pdb
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.Form2.resources
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.Form3.resources
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.Form4.resources
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.Form5.resources
+C:\Users\TOHIR\source\repos\TLBSMS\TLBSMS\obj\Debug\TLBSMS.Form6.resources
